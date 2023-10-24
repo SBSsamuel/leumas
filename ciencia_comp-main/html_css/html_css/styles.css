@@ -1,0 +1,14 @@
+@import url(styles/header.css);
+@import url(styles/footer.css);
+@import url(styles/principal.css);
+@import url(styles/resset.css);
+
+body{
+    background-image: url(imagens/imagen.jpg);
+    background-color: rgb(255, 255, 255);
+    background-size: 110%;
+    background-repeat: no-repeat;
+
+   
+   
+   }
